@@ -1,4 +1,4 @@
 <?php 
 
-echo "<br> inicio";
+echo "<br><br> inicio";
 ?>
