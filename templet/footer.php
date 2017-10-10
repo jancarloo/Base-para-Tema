@@ -1,4 +1,4 @@
 <?php 
-<br>
-echo "footer";
+
+echo "<br> footer";
 ?>
