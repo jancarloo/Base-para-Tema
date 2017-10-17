@@ -1,5 +1,5 @@
 <?php 
 
-echo "<br><br> footer";
+echo "<br><br> footer XD";
 echo "<br>XD";
 ?>
